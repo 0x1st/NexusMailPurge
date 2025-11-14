@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Tampermonkey](https://img.shields.io/badge/tampermonkey-compatible-orange.svg)
+![Tampermonkey](https://img.shields.io/badge/tampermonkey-adapted-brightgreen.svg)
 
 专为 NexusPHP PT网站设计的浏览器油猴插件，帮助用户快速批量删除邮箱中的邮件，支持翻页操作。
 
