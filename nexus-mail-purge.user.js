@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NexusMailPurge - PT网站邮箱批量删除插件
-// @namespace    https://github.com/styin8/NexusMailPurge
+// @namespace    https://github.com/0x1st/NexusMailPurge
 // @version      1.0.0
 // @description  专为 NexusPHP PT网站设计的邮箱批量删除插件，支持翻页操作
 // @author       1st.
@@ -10,8 +10,8 @@
 // @grant        GM_getValue
 // @grant        GM_deleteValue
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/styin8/NexusMailPurge/main/nexus-mail-purge.user.js
-// @downloadURL  https://raw.githubusercontent.com/styin8/NexusMailPurge/main/nexus-mail-purge.user.js
+// @updateURL    https://raw.githubusercontent.com/0x1st/NexusMailPurge/main/nexus-mail-purge.user.js
+// @downloadURL  https://raw.githubusercontent.com/0x1st/NexusMailPurge/main/nexus-mail-purge.user.js
 // ==/UserScript==
 
 (function() {
